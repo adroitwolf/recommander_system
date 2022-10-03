@@ -1,3 +1,4 @@
 # Introduction
 
 # Embedding
+[参考博客](https://www.zhihu.com/question/38002635)
